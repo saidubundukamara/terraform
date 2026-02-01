@@ -1,0 +1,1 @@
+key_name = "EC2 tut"
