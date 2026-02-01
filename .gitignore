@@ -18,8 +18,8 @@
 **/crash.*.log
 
 # Sensitive variable files
-**/terraform.tfvars
-**/terraform.tfvars.json
+#**/terraform.tfvars
+#**/terraform.tfvars.json
 **/*.auto.tfvars
 **/*.auto.tfvars.json
 

@@ -34,7 +34,7 @@ key_name = "your-key-pair-name"
 terraform init
 
 # Preview changes
-terraform plan
+terraform plan -out=tfplan
 
 # Deploy infrastructure
 terraform apply
